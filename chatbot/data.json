@@ -1,0 +1,42 @@
+[
+    {
+        "Question":"How do I create an account?",
+        "Answer":"Click Sign Up, enter your details, and follow the instructions to create your account."
+    },
+    {
+        "Question":"I forgot my password. What should I do?",
+        "Answer":"Click Forgot Password on the login page and follow the instructions to reset your password."
+    },
+    {
+        "Question":"How can I change my password?",
+        "Answer":"Go to Account Settings, Security, and Change Password, then enter your new password."
+    },
+    {
+        "Question":"How can I contact customer support?",
+        "Answer":"You can contact our support team through the Contact Us page or support email."
+    },
+    {
+        "Question":"How do I update my account information?",
+        "Answer":"Go to Account Settings, update your information, and click Save."
+    },
+    {
+        "Question":"How can I cancel my order?",
+        "Answer":"Go to My Orders, select the order, and choose Cancel Order, if cancellation is still available."
+    },
+    {
+        "Question":"Where can I check my order status?",
+        "Answer":"Go to My Orders to see the current status of your order."
+    },
+    {
+        "Question":"What should I do if I received the wrong item?",
+        "Answer":"Please contact customer support and provide your order number and details about the incorrect item."
+    },
+    {
+        "Question":"How do I request a refund?",
+        "Answer":"Go to My Orders, select the relevant order, and choose Request Refund, if available."
+    },
+    {
+        "Question":"What are your support hours?",
+        "Answer":"Our support team is available during regular business hours. Please visit the Contact Us page for current support hours."
+    }
+]
